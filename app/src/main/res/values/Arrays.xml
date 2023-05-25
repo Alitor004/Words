@@ -1,36 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="words">
+        <item>ABAP</item>
+        <item>ActionScript</item>
+        <item>Ada</item>
+        <item>Agda</item>
+        <item>Aikido</item>
+        <item>ALGOL</item>
+        <item>Alice</item>
+        <item>AMPL</item>
+        <item>Apex</item>
+        <item>APL</item>
+        <item>AppleScript</item>
+        <item>Arc</item>
+        <item>Arduino</item>
+        <item>AspectJ</item>
         <item>Assembly</item>
-        <item>ASP.net</item>
-        <item>Basic</item>
+        <item>ATS</item>
+        <item>AutoHotkey</item>
+        <item>AutoIt</item>
+        <item>Awk</item>
+        <item>B</item>
+        <item>Bash</item>
+        <item>BASIC</item>
+        <item>BCPL</item>
+        <item>BETA</item>
+        <item>Boo</item>
+        <item>Bourne Shell</item>
         <item>C</item>
         <item>C++</item>
         <item>C#</item>
-        <item>COBOL</item>
+        <item>C-shell</item>
+        <item>Ceylon</item>
+        <item>CFML</item>
+        <item>Chapel</item>
+        <item>Cilk</item>
+        <item>Clipper</item>
         <item>Clojure</item>
+        <item>CLU</item>
+        <item>COBOL</item>
+        <item>Cobra</item>
+        <item>CoffeeScript</item>
+        <item>ColdFusion</item>
+        <item>COMAL</item>
+        <item>Common Lisp</item>
+        <item>Crystal</item>
+        <item>Curry</item>
         <item>D</item>
+        <item>Dart</item>
+        <item>Datalog</item>
+        <item>Delphi</item>
+        <item>Dylan</item>
+        <item>E</item>
+        <item>Eiffel</item>
+        <item>Elixir</item>
+        <item>Elm</item>
+        <item>Emacs Lisp</item>
         <item>Erlang</item>
-        <item>Fluttter</item>
+        <item>F#</item>
+        <item>Factor</item>
+        <item>Falcon</item>
+        <item>Forth</item>
+        <item>Fortran</item>
+        <item>Go</item>
+        <item>Gosu</item>
         <item>Groovy</item>
+        <item>Hack</item>
+        <item>Haskell</item>
+        <item>Haxe</item>
         <item>HTML</item>
+        <item>Icon</item>
+        <item>IDL</item>
+        <item>Inform</item>
+        <item>INTERCAL</item>
         <item>Io</item>
+        <item>J</item>
+        <item>J# (J-Sharp)</item>
+        <item>J++</item>
         <item>Java</item>
+        <item>JavaScript</item>
+        <item>Julia</item>
         <item>Kotlin</item>
+        <item>KRL</item>
+        <item>LabVIEW</item>
+        <item>Ladder Logic</item>
+        <item>Lasso</item>
+        <item>Lisp</item>
+        <item>Logo</item>
         <item>Lua</item>
+        <item>Lustre</item>
+        <item>M4</item>
+        <item>Maple</item>
         <item>MATLAB</item>
+        <item>Max/MSP</item>
+        <item>Mercury</item>
+        <item>MIMIC</item>
+        <item>Mirah</item>
+        <item>ML</item>
+        <item>Monkey</item>
+        <item>Modula-2</item>
+        <item>Modula-3</item>
+        <item>MUMPS</item>
+        <item>NATURAL</item>
+        <item>Nemerle</item>
         <item>Nim</item>
+        <item>Not eXactly C (NXC)</item>
         <item>Objective-C</item>
+        <item>OCaml</item>
+        <item>Oz</item>
+        <item>Pascal</item>
+        <item>Perl</item>
+        <item>PHP</item>
+        <item>Pike</item>
+        <item>PL/I</item>
+        <item>PL/SQL</item>
+        <item>Pliant</item>
+        <item>PostScript</item>
+        <item>PowerShell</item>
+        <item>Prolog</item>
+        <item>Puppet</item>
+        <item>Pure Data</item>
         <item>Python</item>
-        <item>Q#</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>Racket</item>
+        <item>Ratfor</item>
+        <item>REXX</item>
+        <item>Ring</item>
         <item>Ruby</item>
+        <item>Rust</item>
+        <item>S</item>
+        <item>S-Lang</item>
+        <item>Scala</item>
+        <item>Scheme</item>
+        <item>Scratch</item>
+        <item>Sed</item>
+        <item>Self</item>
+        <item>Shell</item>
+        <item>Simula</item>
+        <item>Smalltalk</item>
+        <item>Solidity</item>
+        <item>SPARK</item>
+        <item>Spin</item>
+        <item>SQL</item>
         <item>Swift</item>
+        <item>Tcl</item>
+        <item>T-SQL</item>
         <item>TypeScript</item>
-        <item>UnrealScript</item>
+        <item>TXL</item>
+        <item>UnityScript</item>
+        <item>Vala</item>
+        <item>Verilog</item>
+        <item>VHDL</item>
+        <item>Vim script</item>
         <item>Visual Basic</item>
-        <item>Wolfram</item>
+        <item>Visual Basic .NET</item>
+        <item>Visual DataFlex</item>
+        <item>Visual FoxPro</item>
+        <item>WebAssembly</item>
+        <item>Wolfram Language</item>
+        <item>X++</item>
+        <item>X10</item>
+        <item>XC</item>
         <item>XML</item>
-        <item>YAML</item>
-        <item>Zsh</item>
+        <item>Xojo</item>
+        <item>XSLT</item>
+        <item>Yorick</item>
+        <item>Z shell (Zsh)</item>
     </string-array>
 </resources>
+
