@@ -1,4 +1,4 @@
-package com.example.wordsapp
+package com.example.word
 
 import android.content.Context
 import android.content.Intent
