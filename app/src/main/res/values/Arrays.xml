@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Assembly</item>
+        <item>ASP.net</item>
+        <item>Basic</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>COBOL</item>
+        <item>Clojure</item>
+        <item>D</item>
+        <item>Erlang</item>
+        <item>Fluttter</item>
+        <item>Groovy</item>
+        <item>HTML</item>
+        <item>Io</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Lua</item>
+        <item>MATLAB</item>
+        <item>Nim</item>
+        <item>Objective-C</item>
+        <item>Python</item>
+        <item>Q#</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>UnrealScript</item>
+        <item>Visual Basic</item>
+        <item>Wolfram</item>
+        <item>XML</item>
+        <item>YAML</item>
+        <item>Zsh</item>
+    </string-array>
+</resources>

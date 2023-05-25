@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Word</string>
+    <string name="look_up_word" />
+    <string name="detail_prefix" />
+</resources>
